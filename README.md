@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on: explainable AI, visual reasoning, reinforcement learning for games
-- 🌱 I’m currently learning: computer science fundamentals, autodiff
+- 🔭 I’m currently working on: explainable AI, visual reasoning, gamedev and game engine development
+- 🌱 I’m currently learning: computer science fundamentals, autodiff, graph neural nets
 - 💬 Ask me about: machine learning, computer vision, graduate school, cats
 - 📫 How to reach me: [Twitter](https://twitter.com/sshkhr16), [Email](sshekhar@uoguelph.ca)
 - 😄 Pronouns: He/Him/His
